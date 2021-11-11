@@ -1,0 +1,30 @@
+/* reset */
+* {
+  text-decoration: none;
+}
+
+.skill-tbl table td{
+  border: 1px solid black;
+}
+
+.hob-hd {
+  padding-left: 275px;
+  padding-bottom: 300px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.box-title {
+  padding-left: 250px;
+}
+
+.content-box {
+box-sizing: content-box;
+width: 25%;
+border: solid #5B6DCD 10px;
+padding: 15px 150px;
+}
