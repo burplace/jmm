@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T22:28:20.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="P5EiO4-C5bdUFyjw4a0y" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T22:56:05.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pQK8ovLeNo3AvW2aCzGi" version="21.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -130,20 +130,14 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ib_oXoZ7JeL9BasM6zFK-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="310" as="sourcePoint" />
-            <mxPoint x="450" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ib_oXoZ7JeL9BasM6zFK-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="290" as="sourcePoint" />
             <mxPoint x="110" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ib_oXoZ7JeL9BasM6zFK-19" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="Ib_oXoZ7JeL9BasM6zFK-19" value="&lt;b&gt;School&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ib_oXoZ7JeL9BasM6zFK-20" value="school_id int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="220" height="30" as="geometry">
@@ -151,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib_oXoZ7JeL9BasM6zFK-21" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="20" height="20" as="geometry">
+          <mxGeometry x="20" y="315" width="20" height="20" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
